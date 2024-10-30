@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\concretes\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\concretes\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\concretes\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\concretes\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\helpers\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\helpers\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\exceptions\\libraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\exceptions\\libraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\enums\\librarymemberstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\enums\\librarymemberstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\enums\\bookstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\enums\\bookstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\enums\\librarianstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\enums\\librarianstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\enums\\bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\enums\\bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\concretes\\librarymemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\concretes\\librarymemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\interfaces\\ilibrarymemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\interfaces\\ilibrarymemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\interfaces\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\interfaces\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AE4EF-6E8E-447B-A0BF-EE2EDC63E8AB}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Librarian.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:23:42.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Program.cs*",
+              "RelativeToolTip": "LibraryManagementTask\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:21:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:44:08.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Concretes\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\Concretes\\BookService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Concretes\\BookService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\Concretes\\BookService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:53:12.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Concretes\\LibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\Concretes\\LibrarianService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Concretes\\LibrarianService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\Concretes\\LibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:15:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:26:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\DVD.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\DVD.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\DVD.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:26:21.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:40:56.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryItemException.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:34:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryMemberStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\LibraryMemberStatusEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Enums\\LibraryMemberStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\LibraryMemberStatusEnum.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Enums\\LibraryMemberStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:06:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\BookStatusEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Enums\\BookStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\BookStatusEnum.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Enums\\BookStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:05:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibrarianStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:10:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookGenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:25:31.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Person.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:23:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Concretes\\LibraryMemberService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\Concretes\\LibraryMemberService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Concretes\\LibraryMemberService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\Concretes\\LibraryMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:54:17.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILibraryMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Interfaces\\ILibraryMemberService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\Interfaces\\ILibraryMemberService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Interfaces\\ILibraryMemberService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\Interfaces\\ILibraryMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:51:17.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:45:34.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Interfaces\\ILibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\Interfaces\\ILibrarianService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\Interfaces\\ILibrarianService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\Interfaces\\ILibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:13:04.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:24:53.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Magazine.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Magazine.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Magazine.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:26:29.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LibraryLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:26:01.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryMember.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryMember.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:24:05.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
